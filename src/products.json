@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price": 0.5,
+        "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07120219/07120219-68be82-1650x1650.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price": 20,
+        "image":"https://cdn03.ciceksepeti.com/cicek/kcm57442582-1/XL/pepsi-kola-2-5-lt-kcm57442582-1-1f980dd2df7c4f66a4f43d8b731faa45.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price": 500,
+        "image":"https://floimages.mncdn.com/media/catalog/product/21-11/15/yazkis-kadin-siyah-uzun-keten-spor-ayakkabi-7331-1636983824.JPG"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price": 40000,
+        "image":"https://www.otoshops.com/cms/uploads/18/20180525141655/HaberOrtasedan.jpeg"
+    }
+
+]
